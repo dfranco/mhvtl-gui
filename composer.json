@@ -1,0 +1,19 @@
+{
+    "name": "dfranco/mhvtl-gui",
+    "description": "Web Console GUI for mhvtl: A Linux Virtual Tape Library",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Davide Franco",
+            "email": "dfranco@dflc.ch"
+        },
+        {
+            "name": "Tom O'Connor"
+        }
+    ],
+    "keywords": [
+        "mhvtl",
+        "gui"
+    ],
+    "require": {}
+}
