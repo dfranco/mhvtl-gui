@@ -11,6 +11,7 @@
             "name": "Tom O'Connor"
         }
     ],
+    "license": "GPL-2.0-only",
     "keywords": [
         "mhvtl",
         "gui"
