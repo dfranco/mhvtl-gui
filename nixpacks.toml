@@ -1,0 +1,9 @@
+providers = ["python"]
+
+[phases.setup]
+aptPkgs = ["mkdocs"]
+
+[phases.build]
+cmds = [
+  "mkdocs build"
+]

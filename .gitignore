@@ -8,4 +8,6 @@ ENABLE_SCST_SCSI_TARGET
 STGT_TARGET_CONF
 LAST_STGT_GIT_UPDATE
 .idea
-/vendor/
+/vendor/.ddev/**
+site/
+.ddev/

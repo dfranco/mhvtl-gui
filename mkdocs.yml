@@ -1,0 +1,4 @@
+site_name: mhvtl-gui
+site_url: https://mhvtl-gui.dflc.ch
+theme:
+  name: mkdocs
